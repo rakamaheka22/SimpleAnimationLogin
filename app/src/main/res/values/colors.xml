@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#DDFE69</color>
+    <color name="colorhover">#BDDA59</color>
+    <color name="inputColor">#303D44</color>
+    <color name="greysoft">#B0BEC5</color>
+    <color name="white">#ffffff</color>
+</resources>

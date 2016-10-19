@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation Login</string>
+    <string name="edittext_username">Enter Username</string>
+    <string name="edittext_password">Enter Password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="description">Made with love by</string>
+    <string name="author"><a href="https://github.com/rakamaheka22">rakamaheka22</a></string>
+</resources>
